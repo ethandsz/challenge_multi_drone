@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-2b4a43141ad7e0db64e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "led_ring_plugin",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LedRingPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LedRingPlugin-77b5c83e05e00c4990c5.json",
+					"name" : "LedRingPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "led_ring_plugin_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-led_ring_plugin_uninstall-9aa8ad0312fe71c9db25.json",
+					"name" : "led_ring_plugin_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-853598ce8057675f8c52.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ethan/Documents/Github/comp0240/challenge_multi_drone_cw/src/challenge_multi_drone/build/led_ring_plugin",
+		"source" : "/home/ethan/Documents/Github/comp0240/challenge_multi_drone_cw/src/challenge_multi_drone/config_sim/gazebo/plugins/led_ring_plugin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
